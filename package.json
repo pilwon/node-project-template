@@ -1,0 +1,22 @@
+{
+  "name": "project-template",
+  "description": "Node.js project template",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "async": "*",
+    "lodash": "*",
+    "moment": "*",
+    "string": "*"
+  },
+  "devDependencies": {
+    "colors": "*",
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "matchdep": "*"
+  },
+  "scripts": {
+    "prepublish": "npm prune"
+  }
+}
