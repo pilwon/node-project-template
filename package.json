@@ -3,6 +3,18 @@
   "description": "Node.js project template",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "author": {
+    "name": "Author",
+    "email": "author@email.com"
+  },
+  "homepage": "https://github.com/author/node-project",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/author/node-project.git"
+  },
+  "keywords": [
+  ],
   "dependencies": {
     "async": "*",
     "lodash": "*",
