@@ -25,7 +25,7 @@ module.exports = function (grunt) {
           '**/*.js',
           '!node_modules/**/*'
         ],
-        tasks: ['default']
+        tasks: ['jshint']
       }
     }
   });
